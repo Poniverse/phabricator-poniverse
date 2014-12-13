@@ -1,0 +1,6 @@
+{
+  "project.name" : "libponiverse",
+  "load" : [
+    "phabricator/src/"
+  ]
+}
